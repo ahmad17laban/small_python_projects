@@ -17,7 +17,7 @@ img.save()
 # pip install pillow
 from pyzbar.pyzbar import decode 
 # choose the path 
-img = Image.open()
+img = img.open()
 
 r= decode(img)
 
