@@ -8,3 +8,5 @@ weather.py: program to get the current weather in a city en
 
 timer.py: basic timer program 
 psw_generater.py: generates psw
+
+Qr_code.py: program to generate qrcode
